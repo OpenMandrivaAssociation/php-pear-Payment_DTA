@@ -5,7 +5,7 @@
 
 Summary:	%{_pearname} - creates DTA files containing money transactions (Germany)
 Name:		php-pear-%{_pearname}
-Version:	1.2.1
+Version:	1.3.1
 Release:	%mkrel 1
 License:	PHP License
 Group:		Development/PHP
