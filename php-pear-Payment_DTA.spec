@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.3.2
-Release:	%mkrel 2
+Release:	%mkrel 3
 Summary:	Creates DTA files containing money transactions (Germany)
 License:	PHP License
 Group:		Development/PHP
