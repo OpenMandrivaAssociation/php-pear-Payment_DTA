@@ -3,7 +3,7 @@
 %define		upstream_name	%{_class}_%{_subclass}
 
 Name:		php-pear-%{upstream_name}
-Version:	1.4.0
+Version:	1.4.1
 Release:	%mkrel 1
 Summary:	Creates DTA files containing money transactions (Germany)
 License:	PHP License
